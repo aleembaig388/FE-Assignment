@@ -41,7 +41,7 @@ h1{
   background-color: #FFF;
   border-radius: 2px;
 }
-.content-wapper .header-panel button:hover{
+.content-wapper .header-panel button:hover, .content-wapper .header-panel button.selected{
   background-color: #efefef;
 }
 .content-wapper .header-panel input[type='color']{
